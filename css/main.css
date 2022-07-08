@@ -977,6 +977,12 @@ span:hover {
 }
 
 :root {
+  --breakpoint1450: 1449.98 + px;
+  --breakpoint1200: 1199.98 + px;
+  --breakpoint992: 991.98 + px;
+  --breakpoint660: 659.98 + px;
+  --breakpoint480: 479.98 + px;
+  --breakpoint375: 374.98 + px;
   --primary: #03283c;
   --primaryDark: #010d14;
   --secondary: #ff6200;
