@@ -204,7 +204,7 @@ body.locked {
   padding: 204px 10px;
   color: var(--white);
   text-align: center;
-  background: url(./img/contacts.jpg) center/cover no-repeat;
+  background: url(../img/contacts.jpg) center/cover no-repeat;
 }
 
 .contacts_title {
@@ -1061,7 +1061,7 @@ span:hover {
 
 @supports (-webkit-appearance:none) {
   .section_contacts {
-    background: url(./img/contacts.webp) center/cover no-repeat;
+    background: url(../img/contacts.webp) center/cover no-repeat;
   }
 }
 
