@@ -204,7 +204,7 @@ body.locked {
   padding: 204px 10px;
   color: var(--white);
   text-align: center;
-  background: url(../img/contacts.jpg) center/cover no-repeat;
+  background: url(./img/contacts.jpg) center/cover no-repeat;
 }
 
 .contacts_title {
